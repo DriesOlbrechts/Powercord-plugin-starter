@@ -1,9 +1,9 @@
 const { Plugin } = require('powercord/entities');
 
-module.exports = class Starter extends Plugin {
+module.exports = class Text extends Plugin {
   startPlugin () {
     this.registerCommand(
-      'start',
+      'text',
       ['guide'],
       'A simple guide to plugins',
       '{c}',
