@@ -92,7 +92,7 @@ When sending an embed you pass a few more things to result:
  - An array of field objects with `name`, `value` and whether or not the field is inline
  - The color of the embed in hex format 
 
-##### You want more code?
+#### You want more code?
 In case you dont want to just pass a message,but want to actually use some code here is a small example on how to do that
 ```js
 const { Plugin } = require('powercord/entities');
