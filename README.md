@@ -89,7 +89,7 @@ module.exports = class Embed extends Plugin {
   }
 };
 ```
-![Embed command](https://media.giphy.com/media/UQDXyqB6eDDI0eyUPF/giphy.gif)
+![Embed command](https://media.giphy.com/media/W1TzGCsrDo4fLXel4p/giphy.gif)
 
 
 When sending an embed you pass a few more things to result:
@@ -144,7 +144,7 @@ module.exports = class Choice extends Plugin {
 
 
 ```
-![Choice command](https://media.giphy.com/media/W1TzGCsrDo4fLXel4p/giphy.gif)
+![Choice command](https://media.giphy.com/media/UQDXyqB6eDDI0eyUPF/giphy.gif)
 
 ## Discord
 And finally, Powercord has an official discord where you can ask help with your plugin development:
