@@ -6,7 +6,7 @@ and use those plugins to figure out the basic things you need and teach yourself
 
 
 ## setup
-There are 2 necessary to make a plugin:
+There are 2 necessary files to make a plugin:
  - The index.js file which contains the code
  - The manifest.json which contains some info about the plugin
 ### Manifest.json
