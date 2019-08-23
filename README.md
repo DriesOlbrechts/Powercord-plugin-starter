@@ -49,7 +49,7 @@ module.exports = class Text extends Plugin {
   startPlugin () {
     this.registerCommand(
       'text',
-      ['guide'],
+      ['guide'], // this means you can also use ".guide"
       'A simple guide to plugins',
       '{c}',
       (args) => ({
