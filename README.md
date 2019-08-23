@@ -60,6 +60,9 @@ module.exports = class Text extends Plugin {
   }
 };
 ```
+![Text command](https://media.giphy.com/media/huU8T6foc92T0B6RFk/giphy.gif)
+
+
 #### Embed message
 ```js
 const { Plugin } = require('powercord/entities');
@@ -86,6 +89,9 @@ module.exports = class Embed extends Plugin {
   }
 };
 ```
+![Embed command](https://media.giphy.com/media/UQDXyqB6eDDI0eyUPF/giphy.gif)
+
+
 When sending an embed you pass a few more things to result:
  - The type of message, which is `rich` for RichEmbed.
  - The title of the embed
@@ -138,6 +144,7 @@ module.exports = class Choice extends Plugin {
 
 
 ```
+![Choice command](https://media.giphy.com/media/W1TzGCsrDo4fLXel4p/giphy.gif)
 
 ## Discord
 And finally, Powercord has an official discord where you can ask help with your plugin development:
